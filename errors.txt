@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/screens.rpy", line 352: end of line expected.
-    image rev_lightning = im.Flip("lightning.png", horizontal=True)
-    ^
+File "game/script.rpy", line 36: could not parse statement.
+    play sound zero radio
+                    ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Sun Feb 02 00:00:06 2020
+Fri Feb 07 19:15:03 2020
