@@ -1,0 +1,5 @@
+error.txt
+log.txt
+traceback.txt
+
+*.bak
