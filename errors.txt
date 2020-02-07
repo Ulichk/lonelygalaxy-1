@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 36: could not parse statement.
-    play sound zero radio
-                    ^
+File "game/script.rpy", line 66: Line is indented, but the preceding hide statement statement does not expect a block. Please check this line's indentation.
+    show Kelga_unhappy behind Ruta
+    ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Fri Feb 07 19:15:03 2020
+Fri Feb 07 22:39:13 2020
