@@ -1,0 +1,360 @@
+Identifier	Character	Dialogue	Filename	Line Number
+start_4d9a17cb		 Я совсем один посреди пылающего леса.	game/script.rpy	24
+start_a2ebba69		Меня пугает треск ломающихся где-то рядом стволов, запах гари почти невыносим.	game/script.rpy	25
+start_c6c1a859		Рядом, словно обессилевший гигант упал старый дуб и меня обдало жаром.	game/script.rpy	26
+start_fffd1158		Я успел отпрыгнуть. 	game/script.rpy	28
+start_96aa91af		Нужно скорее бежать отсюда. И я бегу, пролетаю мимо кричащего, обреченного леса и искры падают на меня как огненные плети.	game/script.rpy	29
+start_d38511f1		Мне нужно отсюда выбраться. Иначе, я опять умру. 	game/script.rpy	30
+start_8122472d		Становится трудно дышать, я немного замедляюсь, поскальзываюсь и падаю. Под ногами обгоревшая черная ветка, похожая на скрюченную руку.	game/script.rpy	32
+start_e71402b2		Мне нужно скорее выбираться отсюда. Но я не знаю куда бежать, поэтому бегаю кругами и снова и снова возвращаюсь к этой обоженной ветке.	game/script.rpy	33
+start_c0944eb1		Мама, может ты знаешь что мне делать?	game/script.rpy	34
+start_36d06a15		И тогда я ощущаю приятное дуновение свежего ветра. Где-то рядом дует нежный, свежий ветер и я радостный бегу к нему навстречу. И взлетаю.	game/script.rpy	35
+start_71e2a1b4		Мне удалось наконец-то вырваться и вылететь из этого леса!	game/script.rpy	39
+start_92857bba		Я набираю полную грудь воздуха!	game/script.rpy	40
+start_7423400e		Но вдохнуть не получается. Я в вакууме. Воздуха нет. 	game/script.rpy	41
+start_98e68624		Я попал в чужую, мертвую галактику.	game/script.rpy	42
+start_834d10be		Я оставил что-то важное в этом лесу и просто сбежать не получится. 	game/script.rpy	43
+start_9e2f8d84		И я снова здесь.	game/script.rpy	46
+start_3cb6e9ae		Что же я здесь потерял? То, без чего я не выберусь, а если и выберусь, это не будет иметь никакого смысла?	game/script.rpy	47
+start_b48f5336		Ой!	game/script.rpy	52
+start_41acc041		Будильник! 	game/script.rpy	53
+start_d077cd76		Мне снится этот лес...	game/script.rpy	56
+start_5d202114		А я ведь и леса никогда не видел вживую...знаю, что на некоторых планетах бывает такое скопление фитоэлементов.	game/script.rpy	57
+start_315b6166		Ох...	game/script.rpy	62
+start_103afc19		Опять будильник	game/script.rpy	63
+start_4b75697f		Выключись!	game/script.rpy	65
+start_ea84a899		Что?	game/script.rpy	66
+start_6fed2029		Уже восемь?! Вот это я влип! 	game/script.rpy	67
+start_42ac1585		Экзамен уже начался! 	game/script.rpy	68
+start_b17c36ff		Только бы успеть!	game/script.rpy	72
+start_bc0f06a2		Надеюсь они начали позже...	game/script.rpy	73
+start_a6d999e5		Если я опоздаю еще хоть раз меня точно исключат!	game/script.rpy	76
+start_fb4d26df		Так что я опять забыл? Пропуск! 	game/script.rpy	77
+start_154043b5		А ключи?!	game/script.rpy	78
+start_f5f852de		Пропуск...черт. Это пропуск в библиотеку, это ключ от...	game/script.rpy	79
+start_9401ebb3		Ой, а вот и пропуск! 	game/script.rpy	81
+start_829fa1a8		В сумке прорвало дно, надо все сунуть в карман, разберусь по дороге.	game/script.rpy	82
+start_4ac1d93a		Артур вылетает из комнаты общежития в соседнюю дверь учебного корпуса.	game/script.rpy	84
+start_09d4e5e3		По дороге ему несколько раз приходится остановится и подобрать падающий пропуск, застегнуть форму, подтянуть штаны...	game/script.rpy	85
+start_c302c4d5		В каком же корпусе лётный экзамен?! Я забыл файл с инструкциями. 	game/script.rpy	89
+start_3359805e		Так, вроде бы прямо. Навигатор не зарядил...Ну почему они всегда меняют аудитории и классы! Что за нужда? Маскировка? 	game/script.rpy	90
+start_b965b1ce		Вот зачем будущей элите! Пилоту! Искать! Кабинет!	game/script.rpy	91
+start_81454d0d		Cпокойствие, только спокойствие...я будущий офицер...я хладнокровен и уверен...	game/script.rpy	92
+start_6feb145f	b	Ты опоздал, Артур! Сильно опоздал! Тренер тебя не допустит!	game/script.rpy	94
+start_315f6e28	b	Так что, можешь уже не торопиться!	game/script.rpy	95
+start_61add72a	a	Ой! Напугала!	game/script.rpy	97
+start_ffd3012c	b	А я нарочно!	game/script.rpy	99
+start_b7002905	b	Ты опять разговариваешь сам с собой!	game/script.rpy	100
+start_a76135e6	a	Не правда! я повторяю материал по космической статикопарадигме!	game/script.rpy	101
+start_2b695baf	a	И я почти не опоздал! 	game/script.rpy	102
+start_eda21d06	b	Артур, общежитие в одной минуте от учебного корпуса...	game/script.rpy	104
+start_73256eec	b	Просто скажи, как ты умудряешься постоянно опаздывать?	game/script.rpy	105
+start_2f72a070	a	Не постоянно!	game/script.rpy	106
+start_09979099	b	Ну, конечно не постоянно, а всего в 95 процентах случаях.	game/script.rpy	107
+start_a42c0a68	a	 Подумаешь, припозднился всего на две минуты!	game/script.rpy	108
+start_8e25a5f5	a	Эка важность!	game/script.rpy	109
+start_9a92b9b3	b	Аудитория H15 в другой стороне, гений!{w} А ты идешь в тупик! 	game/script.rpy	111
+start_aaa42d75	a	 Правда? {w}А я именно туда и шёл! 	game/script.rpy	113
+start_a4740f97	a	Зазнайка! 	game/script.rpy	114
+start_fcd492e6	b	Артууууур! Ты пошел в сторону офицерской столовой. 	game/script.rpy	120
+start_c62c7cf2	a	Да? А у тебя нет заряда для навигатора...я свой...	game/script.rpy	122
+start_00df1f57	b	Потерял в неравном бою?	game/script.rpy	123
+start_9e26e9eb	a	Да! То есть нет! 	game/script.rpy	124
+start_66ba130f	b	Просто иди прямо!	game/script.rpy	126
+start_21bc67a1	b	Из-за тебя наша группа отстает! {w} Тормоз!	game/script.rpy	129
+start_32e8c1cc		{i}Если Артур опоздает на осенний экзамен пилотов, не видать ему космоса как своих ушей.{/i} 	game/script.rpy	134
+start_be7b8d56	a	Еще немного! Ну, должно же мне повезти! 	game/script.rpy	136
+start_b17781ac	c	А ты почти успел.	game/script.rpy	140
+start_2601ade8	c	Экзамен идет уже шесть минут и все заняли свои места. Сегодня к экзамену ты не допущен!	game/script.rpy	141
+start_c9ef1786	a	Ну, пожалуйста! Мне очень нужно!	game/script.rpy	147
+start_0ee638b0	a	Я его сдам и никогда больше не буду мозолить вам глаза! Я улечу и ...я не могу больше!	game/script.rpy	148
+start_f56efea7	c	Не волнуйся. Ты бы всё равно его не сдал.	game/script.rpy	149
+start_d5dd84f3	c	Офицер из тебя не выйдет. Рекомендую даже не приближаться к штурвалу. Освой другую профессию. 	game/script.rpy	150
+start_ded248a8	c	Программиста для стеклоочистителей, например. 	game/script.rpy	152
+start_97a0105d		Тренер захлопывает дверь перед носом Артура	game/script.rpy	155
+start_cc8f4290	a	Вот это прямо не очень хорошо...{w}это, можно сказать, ужасно! 	game/script.rpy	157
+start_4e5ab541	a	Я ненавижу эту планету! {w}Я тут застрял!	game/script.rpy	160
+start_824ebb93	a	Что мне сделать?	game/script.rpy	161
+choice1_no_79c47bef		Ну не может же человеку всё время не везти? 	game/script.rpy	176
+choice1_no_4ceedea0		Это - нелогично.	game/script.rpy	177
+choice1_no_16a51ba5		Хотя, что может быть логичного в везении...	game/script.rpy	178
+choice1_no_e5063f83		Меня точно исключат. Куда мне податься? 	game/script.rpy	179
+choice1_no_a6f931ab		Что есть везение?{w} Куда ведет меня судьба? 	game/script.rpy	180
+choice1_no_f494236d	a	Кто там? 	game/script.rpy	182
+choice1_no_7354ae67	a	Грабители? 	game/script.rpy	183
+choice1_no_0e14c1f5	a	Никого нет!	game/script.rpy	184
+choice1_no_e4079339		{i}Голос за дверью:{/i}	game/script.rpy	186
+choice1_no_b347a1ff	b	Открой немедленно или я выбью дверь.	game/script.rpy	187
+choice1_no_b6c48b48	a	Привет...хаха!	game/script.rpy	191
+choice1_no_2cad71f2	a	Как дела ?	game/script.rpy	192
+choice1_no_dde21bbd	b	И ты просто так ушел?	game/script.rpy	193
+choice1_no_4fbea861	b	Так легко сдался?!	game/script.rpy	194
+choice1_no_970f928a	b	А на задании, враг тебе скажет, {i}пошел вон, это моя планета{/i}, и ты тоже просто уйдешь?	game/script.rpy	195
+choice1_no_01b38a3b	a	Ну, нет конечно!...	game/script.rpy	197
+choice1_no_13fa1295	a	Нет, на задании я скажу врагам, что я буду стрелять.	game/script.rpy	198
+choice1_no_c38cdda0	a	А вот Тренеру такое сказать немного страшновато.	game/script.rpy	199
+choice1_no_b91d6257	b	Ахаха - это невероятно мило!	game/script.rpy	202
+choice1_no_c0e40cef	b	На тебя невозможно долго злиться. 	game/script.rpy	203
+choice1_no_69a23a77	b	Но всё-таки ты - дурак! 	game/script.rpy	205
+choice1_no_f5ad41cb	b	Так легко сдался...	game/script.rpy	206
+choice1_no_2932fe17	a	Да? 	game/script.rpy	207
+choice1_no_10a41933	a	Может стоило постучать...	game/script.rpy	209
+choice1_no_0e517445	a	Ну, я всё-таки что-нибудь придумаю...	game/script.rpy	210
+choice1_no_2efd124a	b	Бегом на экзамен!	game/script.rpy	212
+choice1_no_33258e08	b	 Стучись ногами в дверь, дурак!	game/script.rpy	213
+choice1_no_d1f4b660	b	Тебя же вышвырнут из Школы пилотов!	game/script.rpy	214
+choice1_no_b0c62bc0	a	А я думал ты только будешь рада...	game/script.rpy	216
+choice1_no_0b95c7d4	b	Я тебя сейчас убью. 	game/script.rpy	217
+choice1_no_ed6ee8c8	a	Бегу! То есть лечу!	game/script.rpy	218
+choice1_no_140df13d	a	Ха-ха! Я же пилот! Поэтому лечу на экзамен!	game/script.rpy	220
+choice1_no_3b63c26b	b	Невыносимый идиот!	game/script.rpy	222
+choice1_no_46d5dec5		Через пару минут Артур снова был у двери. 	game/script.rpy	224
+choice1_yes_38a648da	a	Пустите меня! Я готов! Тренер! Я стану пилотом! 	game/script.rpy	232
+choice1_yes_594d8779	c	Опять ты! 	game/script.rpy	236
+choice1_yes_2b85a094	c	 Пошел вон!	game/script.rpy	237
+choice1_yes_45df93a6	a	Тренер, вы должны допустить меня до экзамена!	game/script.rpy	238
+choice1_yes_c147c188	a	Просто обязаны!	game/script.rpy	239
+choice1_yes_ead4d902	c	Почему?	game/script.rpy	240
+choice1_yes_21f47f88	a	Потому что я - отличный пилот!	game/script.rpy	241
+choice1_yes_ebcc82a7	c	Ты разве не в группе отстающих?	game/script.rpy	242
+choice1_yes_bd0fd408	a	Я не ... я практик. Дайте мне шанс! На симуляции у меня всегда высокий балл. 	game/script.rpy	243
+choice1_yes_1f871886	c	Практик, который не знает без подсказки не одной инструкции...	game/script.rpy	244
+choice1_yes_0dc91f71	c	Пилот космолета - это не для тебя.	game/script.rpy	245
+choice1_yes_347f3840	c	Исчезни. 	game/script.rpy	246
+choice1_yes_7440641c	a	Вы не имеете права! Пустите меня!	game/script.rpy	251
+choice1_yes_5fbb6a18	a	Вы обязаны! 	game/script.rpy	252
+choice1_yes_e131a17f	c	Хотя... 	game/script.rpy	256
+choice1_yes_0888c574	c	 Знаешь, я тебя допущу.	game/script.rpy	257
+choice1_yes_38e38a72	c	У меня сегодня на редкость {i}хорошее{/i} настроение.	game/script.rpy	258
+choice1_yes_137a0b9f	c	 Посмотрим на что ты способен.	game/script.rpy	259
+choice1_yes_1f4a70da	c	 но не пожалей об этом...	game/script.rpy	260
+choice1_yes_84e0bc2e	c	 Ты сдаешь следующим. Через минуту. Практик. 	game/script.rpy	261
+choice1_yes_a195ef0e	a	Спасибо тренер!	game/script.rpy	264
+choice1_yes_7d7105e1	b	Ура, он тебя допустил!	game/script.rpy	266
+choice1_yes_5c57d55a	b	Повезло тебе!	game/script.rpy	267
+choice1_yes_7bddd7b7	a	Да уж, неожиданно щедро!	game/script.rpy	269
+choice1_yes_92c29d89	a	А ты сдала?	game/script.rpy	270
+choice1_yes_152fa49b	b	Естественно! Сегодня нужно только сдать маневрирование, это легко! Вот завтра, в боёвке, будет непросто. {w}Готовься! 	game/script.rpy	271
+choice1_yes_30e1543d	b	И еще {w}cообщаю тебе, просто чтобы ты опять не опозорил нашу группу..	game/script.rpy	273
+choice1_yes_6e0036fb	a	Что? Да я...	game/script.rpy	274
+choice1_yes_5f96bc41	b	Просто слушай. А то опять что-нибудь перепутаешь!	game/script.rpy	277
+choice1_yes_447aa941	b	За рекой - резкий поворот. Сбрось скорость, потом вниз и налево	game/script.rpy	278
+choice1_yes_a9443300	b	Затем нужно подождать 1.5 секунды и только потом сфотографируй поверхность.	game/script.rpy	279
+choice1_yes_e48bda69	b	 Не торопись!	game/script.rpy	280
+choice1_yes_b6b549ed	b	 Всё просто - даже ты не перепутаешь!	game/script.rpy	281
+choice1_yes_93249382	a	Да, справлюсь я! Я прекрасно маневрирую!	game/script.rpy	282
+choice1_yes_c15e60bc	a	 Я - прирожденный пилот! Может быть я и завалил теорию разок-другой...	game/script.rpy	283
+choice1_yes_f60d2151	b	Восемь. {w}Восемь раз ты завалил теорию.	game/script.rpy	284
+choice1_yes_383f1b33	a	А точно восемь?	game/script.rpy	286
+choice1_yes_97809d0d	b	 Точно. У тебя самый низкий балл, сдай пожалуйста этот экзамен и вали уже с этой планеты. 	game/script.rpy	287
+choice1_yes_1f1b0103	b	Ты нам рейтинг всей группы снижаешь!	game/script.rpy	288
+choice1_yes_ebf458d2	b	 Хотя {w}ты милый!	game/script.rpy	289
+choice1_yes_178fc160	a	Милый?!	game/script.rpy	291
+choice1_yes_cd607747	a	А вообще, с превеликим удовольствием свалю! Это, можно сказать, моя заветная мечта.	game/script.rpy	292
+choice1_yes_1e16690d	a	 Получу право управлять космическим кораблём и улечу!	game/script.rpy	293
+choice1_yes_d8f10532	a	Глаза б мои не видели эту вашу группу, эти теории и бесконечные инструкции.	game/script.rpy	294
+choice1_yes_7c9542cd	a	 Я практик, а не теоретик! 	game/script.rpy	295
+choice1_yes_2e14220c	b	Ты - {w}болтун!	game/script.rpy	296
+choice1_yes_f6978afe	c	Артур! За штурвал!	game/script.rpy	298
+choice1_yes_67620c62	c	Включить симуляцию планеты А4545! Максимальная сложность. 	game/script.rpy	299
+choice1_yes_21db9225	b	Ого! Он точно хочет тебя завалить! Это же самая сложная планета!	game/script.rpy	301
+choice1_yes_b141fd2d	b	 С этого года будущие пилоты тренируются на реальных случаях.	game/script.rpy	302
+choice1_yes_b4088379	b	Планета A4545 это...	game/script.rpy	303
+choice1_yes_51ff0599	b	Там кажется произошла какая-то реальная катастрофа с исследовательским кораблем.	game/script.rpy	304
+choice1_yes_80c58c85	b	Поэтому его и ввели в учебную программу и в симуляцию. Не помню что там было...	game/script.rpy	305
+choice1_yes_361a8ea4	b	А, точно, это - планета-пустыня, раньше мы думали, что она безопасна,{w} a потом...	game/script.rpy	306
+choice1_yes_df6c784a	a	Я знаю. Это - планета на которой нашли корабль мамы...	game/script.rpy	310
+choice1_yes_a407b5e3	a	Вернее, то, что от него осталось. 	game/script.rpy	311
+choice1_yes_1924a3ab	b	Артур....прости.. 	game/script.rpy	312
+choice1_yes_8ecbcfbb	b	Я не хотела, то есть я знала про этот случай,{w}но не знала что это случилось именно там... 	game/script.rpy	313
+choice1_yes_696a50c1	b	 И с твоей мамой...Извини! Я... 	game/script.rpy	314
+choice1_yes_7c11d868	c	Мари, ты ведь уже сдала?	game/script.rpy	316
+choice1_yes_b8a24272	b	Да. Я... мы!	game/script.rpy	317
+choice1_yes_7b8b9b70	c	Так исчезни.	game/script.rpy	318
+choice1_yes_8338e605	c	Бегом! 	game/script.rpy	319
+choice1_yes_bc6e6269	b	Есть!	game/script.rpy	320
+choice1_yes_b1a08bec	c	А ты чего с блестящими глазами?	game/script.rpy	322
+choice1_yes_3d0ee232	c	Во-первых, пилоту не должны мешать никакие эмоции.	game/script.rpy	323
+choice1_yes_b8f7a6d3	c	Во-вторых, вы уже должны были проходить пустынную планету на стратегии боя, а не сидеть и фотографировать равнины.	game/script.rpy	324
+choice1_yes_40de48b1	c	Война ведь не ждёт. Дерзай, дружок. 	game/script.rpy	325
+choice1_yes_521dfa37	c	И удачи, программист!	game/script.rpy	328
+choice1_yes_2a3b9c5e	c	За штурвал, Программист.	game/script.rpy	332
+choice1_yes_600dbe3d	a	Да? А мы такой еще не проходили. 	game/script.rpy	334
+choice1_yes_95de71d0	c	Ты всегда ждешь что тебе скажут что делать, да?	game/script.rpy	335
+choice1_yes_5c87be23		Артур сел за штурвал симулятора исследовательского корабля. Эти кадры, их он уже видел.	game/script.rpy	340
+choice1_yes_13d9c980		В симуляцию были подгружены снимки с крушения маминого корабля.	game/script.rpy	341
+choice1_yes_c8a07a1c		Так надо. Учиться на ошибках других.	game/script.rpy	342
+choice1_yes_98342486		Но была ли это ошибка?	game/script.rpy	343
+choice1_yes_95123bde		Мама прилетела сюда три года назад	game/script.rpy	345
+choice1_yes_f6e1b063		Потом их корабль не вышел на связь	game/script.rpy	346
+choice1_yes_7080ab45		Мне сказали, что это обычное дело, что всё будет в порядке	game/script.rpy	347
+choice1_yes_f3775b45		Мама - отличный пилот, а планета - в списке безопасных	game/script.rpy	349
+choice1_yes_b29e2984		Я не о том думаю... экзамен. Маневр.	game/script.rpy	350
+choice1_yes_69b8284a		Так, главное спокойствие...что там говорила Мари? Повернуть налево?	game/script.rpy	351
+choice1_yes_a703f4cb		Или она вообще не про эту планету говорила...а про A4548?! Ладно, положусь на интуицию	game/script.rpy	352
+choice1_yes_73a31b1c		Потом мне позвонилии и сказали, что мама награждена медалью за храбрость. 	game/script.rpy	355
+choice1_yes_11359d58		 Посмертно.	game/script.rpy	356
+choice1_yes_3939718a		А я теперь имею право поступить учиться на пилота. Это так престижно, мне очень повезло.	game/script.rpy	357
+choice1_yes_4691ad90		В пилоты кого попало не берут. Только лучших. Армия оплатит учебу, как сыну героя-исследователя. 	game/script.rpy	358
+choice1_yes_c96ad538		Артур плавно взял штурвал и космический корабль неспешно оторвался от земли.	game/script.rpy	359
+choice1_yes_942664ac		Доклад про маму был короткий: 	game/script.rpy	360
+choice1_yes_0f751520		Исследовательский корабль АЕ675 столкнулся на пустынной планете A45548 c неизвестным объектом. Количество выживших - ноль.	game/script.rpy	362
+choice1_yes_f711d114		Но на корабле были записи и снимки. Небесных валунов... Наверное, с ним и столкнулся корабль мамы.	game/script.rpy	363
+choice1_yes_4b828b8c		Она была хорошим пилотом.	game/script.rpy	364
+choice1_yes_00c2ee69		Неужели, хорошие пилоты тоже ошибаются.	game/script.rpy	365
+choice1_yes_83a62f4c		Ладно, это было давно. А сейчас мне надо просто сдать этот чертов экзамен...	game/script.rpy	366
+choice1_yes_7d56748d		Артур не сбавляя скорости повернул налево. Из ниоткуда появилось препятствие.	game/script.rpy	368
+choice1_yes_8264edd4		На мониторе высветилось: 	game/script.rpy	369
+choice1_yes_45860630		ВАШ КОРАБЛЬ УНИЧТОЖЕН СТОЛКНОВЕНИЕМ С НЕБЕСНЫМ ВАЛУНОМ	game/script.rpy	372
+choice1_yes_e1d6731a		Пилот не справился с управлением, это привело к столкновению. 	game/script.rpy	373
+choice1_yes_f5c952fb		Симуляция закончена. 	game/script.rpy	374
+choice1_yes_8976ef33		FAIL	game/script.rpy	375
+choice1_yes_19f02a37	a	Ой!	game/script.rpy	377
+choice1_yes_6894c026	c	Поздравляю вас, Артур! Вы побили рекорд.	game/script.rpy	381
+choice1_yes_1383d9b3	c	Так быстро экзамен еще не проваливал никто!	game/script.rpy	382
+choice1_yes_12ea6f3a	c	Похлопаем таланту!	game/script.rpy	383
+choice1_yes_a45d05a6	a	Умеете вы поддержать...очень педагогично!	game/script.rpy	385
+choice1_yes_30fd0bbb	c	Что?	game/script.rpy	387
+choice1_yes_38ca3cf5	a	Ничего, просто....	game/script.rpy	388
+choice1_yes_e33f1cc8	c	Отправляйся домой. Завтра приходи за документами.	game/script.rpy	389
+choice1_yes_8ae48599	c	 А из общежития тебя вышвырнут уже в пятницу.	game/script.rpy	390
+choice1_yes_8ff11eb6	c	 У нас нет нужды кормить бездарей.	game/script.rpy	391
+choice1_yes_11bf4893	c	 Подумай насчет программирования уборщиков, это очень востребованно. 	game/script.rpy	392
+choice1_yes_39e9f627	c	 Они тоже выдают жильё. 	game/script.rpy	393
+choice1_yes_6eed11cd	c	Правда, ты и там облажаешься.	game/script.rpy	394
+choice1_yes_9d53fb8b	c	 Но это, хотя бы, никого не убьёт. 	game/script.rpy	395
+choice1_yes_26c7213e	c	 Вали.	game/script.rpy	396
+choice1_yes_a5442280		Артур понуро побрел домой.	game/script.rpy	399
+choice1_yes_8046ae3b		Завалить теорию можно было сколько угодно, а вот практику - только трижды. Сегодня был третий раз.	game/script.rpy	400
+choice2_done_58902800	a	Дома я долго размышлял обо всем. Листал комиксы. Но не помню ни одной картинки. 	game/script.rpy	406
+choice2_done_54121936	a	 Я провел тут уже два года. Я - сын знаменитого пилота и исследователя не могу сдать элементарный экзамен. 	game/script.rpy	407
+choice2_done_8c6ea470	a	Ненавижу этот экзамен и недоумка Тренера. И заносчивую Мари. Подумаешь...	game/script.rpy	408
+choice2_done_34b6f45b	a	Если я хочу когда-нибудь увидеть мир из этой тюрьмы надо бежать. Что же делать? Пока я не вижу никаких вариантов.	game/script.rpy	410
+choice2_done_64fc974b	a	Если меня выгонят из общаги и училища, куда я пойду? 	game/script.rpy	411
+choice2_done_a73cefd3	a	Пешком до Первой планеты не дойдешь. Только за штурвалом космического корабля.	game/script.rpy	412
+choice2_done_5136e9c2	a	 Поговорю с Директором. 	game/script.rpy	413
+choice2_done_fda57486		Артур заснул...	game/script.rpy	414
+choice2_done_0c4765fc	a	Я один в лесу. И я понимаю, что мне нужно скорее оттуда выбраться. А еще, я понимаю, что сплю, но не могу проснуться.	game/script.rpy	416
+choice2_done_8cd2a067	a	 Каждый раз я мучительно ищу что-то...	game/script.rpy	417
+choice2_done_bb8e4b4e	a	...	game/script.rpy	421
+choice2_done_446d58e3	a	Что это?! 	game/script.rpy	422
+choice2_done_de6ccdf4		 Артур подскочил и увидел дымящиеся руины на месте учебного корпуса.	game/script.rpy	425
+choice2_done_dc4284ac		Валил дым, но сирена молчала.	game/script.rpy	426
+choice2_done_ac2cf7d2	a	Атака? Авария? Мари....	game/script.rpy	428
+choice2_done_40f243e1		Артур выскочил из общежития и побежал в сторону учебного корпуса. 	game/script.rpy	435
+choice2_done_c831b682		Он обернулся и увидел, что дверь его корпуса завалило огромными стальными валунами.	game/script.rpy	436
+choice1_done_f3b020c8		Из-за едкого дыма было трудно дышать и почти ничего не видно.	game/script.rpy	442
+choice1_done_160cdf09		Артур не понимал в какую сторону ему идти, он несколько раз пробежал вокруг общежития.	game/script.rpy	445
+choice1_done_025d7099		 Вход в основной корпус тоже завалило. 	game/script.rpy	446
+choice1_done_100457f9	a	Мари...! Группа С..! Тренер!	game/script.rpy	447
+choice1_done_5c4a62a3		Здание было разрушено. Артур сел на землю.	game/script.rpy	449
+choice1_done_0c3f3e4a		Что случилось? Люди! Я не понимаю... что мне делать...Мари? 	game/script.rpy	451
+choice1_done_5c0f134d		На случай атаки были инструкции...я ничего не помню. Я не понимаю что делать...	game/script.rpy	452
+choice1_done_3c05ef60		Неподалеку послышалось шевеление. Из под обломков неспеша выбрался высокий человек. 	game/script.rpy	453
+choice1_done_84c61ee9	c	Это ты, Артур ?...	game/script.rpy	454
+choice1_done_088a0310	a	Тренер...	game/script.rpy	455
+choice1_done_ab870f16	a	 Простите...это я. Я был в комнате и рвануло...я не знаю...	game/script.rpy	456
+choice1_done_7608f334	c	Соберись. Бегом в корпус B2, там спасательный катер. Приготовь его к взлету,{w}найди маячок...	game/script.rpy	457
+choice1_done_e6ed1714	c	 я приведу выживших. Жди меня в секторе B2, всё должно быть готово к взлету. Убедись, что посудина с раненными взлетит. 	game/script.rpy	458
+choice1_done_95c8a48b	c	Объявляю Эвакуацию.	game/script.rpy	459
+choice1_done_b577e799	a	Ладно...	game/script.rpy	460
+choice1_done_ce1e3121		Тренера не было видно. Он только слышал его голос. Кажется он немного дрожал. 	game/script.rpy	461
+choice1_done_a5b79bb6	c	Не ладно, а Есть! 	game/script.rpy	462
+choice1_done_78ad5425	a	Есть...я пошел?	game/script.rpy	463
+choice1_done_4d3093c8	c	Иди...	game/script.rpy	464
+choice1_done_8a9df3f8		Тренер сказал Артуру идти неожиданно мягко, как-то по-человечески, а не как обычно.	game/script.rpy	465
+choice1_done_a1cbb68b		Тренер тяжело поднялся, Артур на бегу обернулся, но смог разглядеть лишь его тень...	game/script.rpy	467
+choice1_done_d78257b8		Он был сильно ранен и проковылял прочь не глядя на Артура.	game/script.rpy	468
+choice1_done_87fc538f		 Кажется, взрывом ему сильно повредило руку. Она болталась как чужая, как сломанная обгоревшая ветка.	game/script.rpy	469
+choice1_done_83cbb6c3		Артур побежал к корпусу B2 ориентируясь на маяк вдалеке. 	game/script.rpy	470
+choice1_done_2c803c48		Но маяк вскоре исчез в дыму, а Артуру стало всё тяжелее дышать.	game/script.rpy	471
+choice1_done_cf294b7e		Артур закашлялся и остановился.	game/script.rpy	473
+choice1_done_83460738	a	Пожалуйста, давайте все выживем!	game/script.rpy	474
+choice1_done_1483d5cf		Дышать было тяжело, по дороге Артур пару раз отключился. Но вставал, утирая слезы и бежал к корпусу B2...	game/script.rpy	476
+choice1_done_69c9ce2c		Я надеюсь я недолго был в отключке.	game/script.rpy	478
+choice1_done_65f1f397		Наконец, он добежал до корпуса B2.	game/script.rpy	481
+choice1_done_6895f9a8		Сначала он увидел груду обломков.	game/script.rpy	482
+choice1_done_9d8efce9		Дымился только второй и третий корпуса, там где стояли корабли. 	game/script.rpy	483
+choice1_done_b7413713		Третий корпус был раскурочен до основания, останки кораблей, самолетов и кажется...	game/script.rpy	484
+choice1_done_17f2193c		Артур забежал во входную дверь, она казалась неповрежденной.	game/script.rpy	485
+choice1_done_ae6c94aa		Артур несмело заглянул в кабинет пилотов.	game/script.rpy	486
+choice1_done_d1685cd4	a	Здраст...	game/script.rpy	487
+choice1_done_e51777df		Он увидел страшего пилота, от удара его отнесло к стене	game/script.rpy	488
+choice1_done_83c123bd		Сейчас его обгоревший труп лежал в углу... среди других частей тела...	game/script.rpy	489
+choice1_done_564cbf2a		Артур вскрикнул и выбежал обратно.	game/script.rpy	490
+choice1_done_8bc8eda3		Он повернул направо, где должны были стоять катера для экстренной эвакуации.	game/script.rpy	491
+choice1_done_c744736d		Почти весь корпус выгорел. 	game/script.rpy	492
+choice1_done_f203ac23		Ни один спасательный катер не уцелел. Артур схватил несколько кислородных масок и побежал назад к учебному корпусу.	game/script.rpy	493
+choice1_done_cb0f9307		Кто-то должен был остаться...Мари...	game/script.rpy	497
+choice1_done_83a0ba84		Артур вернулся к тому месту где встретился с Тренером.	game/script.rpy	498
+choice1_done_153b54e5	a	Тренер! Тренер! Вы где? {w}Спасательный катер...и все пилоты...	game/script.rpy	499
+choice1_done_06bdaab3		Артур побежал в сторону учебного корпуса. 	game/script.rpy	500
+choice1_done_c3ccd152		 По дороге Артур подскользнулся и упал.	game/script.rpy	501
+choice1_done_19f02a37	a	Ой!	game/script.rpy	502
+choice1_done_e39d568c		Он оглядел препятствие 	game/script.rpy	503
+choice1_done_b15c0285		Это было{w} тело Тренера. 	game/script.rpy	504
+choice1_done_3623677f	a	Тренер! Я пришел к корпусу...а там!	game/script.rpy	507
+choice1_done_93096882	a	Тренер! Тренер! Разрешите обратиться! 	game/script.rpy	508
+choice1_done_4be43984		Артур присел и осторожно дотронулся до его плеча. 	game/script.rpy	509
+choice1_done_bfd73936		Безусловно он был мертв 	game/script.rpy	510
+choice1_done_5e3ee0e9	a	Он не смог дойти!	game/script.rpy	511
+choice1_done_5e3fba1d	a	А вы не знаете{w} что мне делать? Тренер...	game/script.rpy	512
+choice1_done_e3fb7591	a	Вы же всегда говорили, что мне нужно сказать что делать.	game/script.rpy	513
+choice1_done_9df265a1	a	Так скажите!	game/script.rpy	514
+choice1_done_e43b398f		В ужасе Артур осмотрел тело, убедился что Тренер мертв. 	game/script.rpy	516
+choice1_done_3504a9a2	a	Соберись тряпка...	game/script.rpy	519
+choice1_done_09bfadb6		Мальчик побежал дальше. По дороге он вспомнил о малых кораблях, пришвартованных на задворках, для перевозки гражданских грузов, мусора и почты 	game/script.rpy	520
+choice1_done_2ea225d2		Учебные корпусы, вернее то что от них осталось были похожи на валуны. Артур нашел приемник, он работал. 	game/script.rpy	521
+choice1_done_6dea71d1		СООБЩЕНИЕ ИЗ ПРИЕМНИКА:	game/script.rpy	522
+choice1_done_b030896e		ВНИМАНИЕ ПЛАНЕТА АFR12 БЫЛА АТАКОВАНА, ВЫЖИВШИМ ЛЮБЫМИ СПОСОБАМИ ПОКИНУТЬ ПЛАНЕТУ 	game/script.rpy	523
+choice1_done_d98f153f	a	Покинуть? 	game/script.rpy	524
+choice1_done_b9a113bd	"Голос из приёмника"	Эй, парень! Это капитан Зац. Слышишь?	game/script.rpy	526
+choice1_done_19e6b506	a	Здравствуйте, то есть прием! 	game/script.rpy	527
+choice1_done_d4641e27	"Голос из приёмника"	ВЗРОСЛЫЕ ЕСТЬ?	game/script.rpy	528
+choice1_done_e4f9e751	a	Я не знаю...Я и есть взрослый! 	game/script.rpy	529
+choice1_done_cc3283b3	"Голос из приёмника"	МАЛЬЧИК, КАК ТЕБЯ ЗОВУТ?	game/script.rpy	530
+choice1_done_ff3d450d	a	Артур, из группы подготов...	game/script.rpy	531
+choice1_done_6c01b5d8	"Голос из приёмника"	ВАЛИ С ПЛАНЕТЫ, АРТУР, БЕГОМ. ЭТО БЫЛА КИНЕТИЧЕСКАЯ БОМБА.	game/script.rpy	532
+choice1_done_a2e2b959	"Голос из приёмника"	ЕСТЬ СВЕДЕНИЯ, ЧТО АТАКА ПОВТОРИТСЯ. НАЙДИ ЛЮБУЮ ПОСУДИНУ И УЛЕТАЙ. 	game/script.rpy	533
+choice1_done_6560229f	"Голос из приёмника"	НИКОГО НЕ ИЩИ, НЕ УСПЕЕШЬ.	game/script.rpy	534
+choice1_done_66c31e67		ТЫ УМЕЕШЬ УПРАВЛЯТЬ КОСМОЛЕТОМ?	game/script.rpy	535
+choice1_done_9b19dca6	a	Видимо...{w}да...	game/script.rpy	536
+choice1_done_820c931e	"Голос из приёмника"	ВОТ И УЛЕТАЙ. ЭТО ПРИКАЗ, ПИЛОТ АРТУР.	game/script.rpy	537
+choice1_done_0b30b047		Капитан Зац отключился	game/script.rpy	538
+choice1_done_194a99d0		Из приемника: НЕМЕДЛЕННО ПОКИНЬТЕ ПЛАНЕТУ, ВОЗДУШНЫЕ ВОРОТА БУДУТ СКОРО ЗАКРЫТЫ В ЦЕЛЯХ БЕЗОПАСНОСТИ.	game/script.rpy	539
+choice1_done_42b01be1		Артур бросил приёмник и побежал быстрее.	game/script.rpy	541
+choice1_done_b66e1366	a	Мари! Группа B...Группа С...	game/script.rpy	542
+choice1_done_0555c588	a	Группа B...! Мари! Отряд! 	game/script.rpy	543
+choice1_done_bbf3d7d7	a	Давайте улетим на почтовых кораблях! 	game/script.rpy	544
+choice1_done_90bc6cf7	a	Всё будет хорошо !	game/script.rpy	545
+choice1_done_4fea8115	a	Я знаю что делать!	game/script.rpy	546
+choice1_done_3a3104d2		Непроглядный черный туман полностью скрывал то, что впереди.	game/script.rpy	547
+choice1_done_ed96e5fe		Ответом Артуру была тишина.	game/script.rpy	548
+choice1_done_9d8aa46b		Балки порушенного здания, как вековые сосны, немо наблюдали за крошечным Артуром, который бегал между ними кругами. 	game/script.rpy	549
+choice1_done_6f072f30		Артур бегал и звал. Иногда он поскальзывался, но вставал и бежал вперед не замечая дороги. 	game/script.rpy	550
+choice1_done_45741591	a	Пожалуйста, ответьте. Группа B! Люди!	game/script.rpy	551
+choice1_done_01818497	a	Нам надо срочно покинуть планету! 	game/script.rpy	552
+choice1_done_023c3130		Артур бегал по разрушенному корпусу и кричал. Один раз даже позвал маму, но ему никто не ответил.	game/script.rpy	553
+choice1_done_e430ddc7		Бессильно прислонившись к тому, что когда-то было незыблимой, бетонной конструкцией Артур остановился.	game/script.rpy	554
+choice1_done_a08eb56e		Вдалеке мелькал маяк - единственный источник света....	game/script.rpy	555
+choice1_done_8c1700de		Артур побежал к нему. 	game/script.rpy	556
+choice1_done_4ea3075e		Маяк мелькнул и погас.	game/script.rpy	557
+choice1_done_e281d506		Слева Артур заметил небольшой уцелевший ангар. 	game/script.rpy	558
+choice1_done_e4e9dc2b		Там стоял небольшой серый кораблик, его чуть присыпало обломками, но он был соверешенно цел! 	game/script.rpy	560
+choice1_done_965f0887		Артур неловко открыл дверь и запрыгнул внутрь. 	game/script.rpy	562
+choice1_done_4194cc33		Если взорвали кинетическую, она повторит авто - взрыв через час, чтобы добить оставшийся, как выражаются военные, {i}антропоэлемент.{/i} 	game/script.rpy	563
+choice1_done_585d38da		Добрые. Травка останется. А люди - нет.	game/script.rpy	564
+choice1_done_271173ba		Нужно валить скорее. Я получил приказ. 	game/script.rpy	565
+choice1_done_8697cfce		 Артур снял маску и включил апарат. Приготовился взлететь.	game/script.rpy	566
+choice1_done_48bb12a1		На мониторе высветилось 	game/script.rpy	567
+choice1_done_151be659		{i} ПОДГОТОВКА К ВЗЛЕТУ.{i}	game/script.rpy	568
+choice1_done_5cbd05ba	a	Я должен найти Мари. И ребят. Найти помощь. Я не знаю что делать. Но наверное, хоть что-то я могу. 	game/script.rpy	570
+choice1_done_ad53d9e2		Артур тяжело дышал, поменял кислородную маску и неловко выбрался из кабины.	game/script.rpy	573
+choice1_done_e4493715	a	Глупая...зазнайка... 	game/script.rpy	574
+choice1_done_8d1680fd		Артур вздохнул, отыскал поисковой маячок для экипажа, спустился из кабины и побежал к восьмому корпусу	game/script.rpy	575
+choice1_done_6ff3383b		Если мне очень повезет 	game/script.rpy	577
+choice1_done_4c5a42dc		То кто-то, во время взрыва, оказался в столовой или в корпусе второго общежития 	game/script.rpy	578
+choice1_done_1edc3334		 а значит кто-то еще{w} живой	game/script.rpy	579
+choice1_done_82b4b6b5		Главное успеть. 	game/script.rpy	581
+choice1_done_d6e2ca05		Пожалуйста, мне очень нужно успеть...У меня есть дело. 	game/script.rpy	582
+choice1_done_8775b81b		Артур повернул в сторону столовой.	game/script.rpy	583
