@@ -387,69 +387,11 @@ image lightning:
 ##
 ## http://www.renpy.org/doc/html/screen_special.html#main-menu
 
-image bg main_menu_animated:
-    "__1/__01~1.jpg"
-    pause 0.05
-    "__1/__02~1.jpg"
-    pause 0.05
-    "__1/__03~1.jpg"
-    pause 0.05
-    "__1/__04~1.jpg"
-    pause 0.05
-    "__1/__05~1.jpg"
-    pause 0.05
-    "__1/__06~1.jpg"
-    pause 0.05
-    "__1/__07~1.jpg"
-    pause 0.05
-    "__1/__08~1.jpg"
-    pause 0.05
-    "__1/__09~1.jpg"
-    pause 0.05
-    "__1/__10~1.jpg"
-    pause 0.05
-    "__1/__11~1.jpg"
-    pause 0.05
-    "__1/__12~1.jpg"
-    pause 0.05
-    "__1/__13~1.jpg"
-    pause 0.05
-    "__1/__14~1.jpg"
-    pause 0.05
-    "__1/__15~1.jpg"
-    pause 0.05
-    "__1/__16~1.jpg"
-    pause 0.05
-    "__1/__17~1.jpg"
-    pause 0.05
-    "__1/__18~1.jpg"
-    pause 0.05
-    "__1/__19~1.jpg"
-    pause 0.05
-    "__1/__20~1.jpg"
-    pause 0.05
-    "__1/__21~1.jpg"
-    pause 0.05
-    "__1/__22~1.jpg"
-    pause 0.05
-    "__1/__23~1.jpg"
-    pause 0.05
-    "__1/__24~1.jpg"
-    pause 0.05
-    "__1/__25~1.jpg"
-    pause 0.05
-    "__1/__26~1.jpg"
-    pause 0.05
-    "__1/__27~1.jpg"
-    pause 0.05
-    "__1/__28~1.jpg"
-    pause 0.05
-    "__1/__29~1.jpg"
-    pause 0.05
-    repeat
+
 
 
 screen main_menu():
+
 
     ## This ensures that any other menu screen is replaced.
     tag menu
@@ -486,7 +428,7 @@ style main_menu_frame:
     xsize 280
     yfill True
 
-    background "bg main_menu_animated"
+    background "nebula"
 
 style main_menu_vbox:
     xalign 1.0
