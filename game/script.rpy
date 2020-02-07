@@ -61,7 +61,8 @@ label start:
     k "Ну, раз тебе нравится. значит будем считать, что это - хорошая погода."
     k "Кстати, я принесла тебе кое-что..."
     play sound knock
-hide kelga_happy
+
+    hide kelga_happy
 
     show Kelga_unhappy behind Ruta
     show alexey_happy at right
