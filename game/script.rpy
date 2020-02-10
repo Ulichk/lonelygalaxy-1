@@ -17,6 +17,28 @@ image side b ="coral_happy"
 
 image snow = Snow("kitty.png")
 
+define news_text_1 = "НА СПУТНИКЕ ПЛАНЕТЫ АЛЬФА ПРОИЗОШЕЛ ВЗРЫВ, В РЕЗУЛЬТАТЕ ВОЗГОРАНИЯ ПОГИБЛИ НЕСКОЛЬКО СОТЕН ЧЕЛОВЕК, ТОЧНОЕ ИХ КОЛИЧЕСТВО ПОКА НЕИЗВЕСТНО."
+define news_text_2 = "ВЕДЕТСЯ СЛЕДСТВИЕ, ПРАВИТЕЛЬСТВО БЕТТА-ПЛАНЕТЫ ОТРИЦАЕТ СВОЮ ОЧЕВИДНУЮ ПРИЧАСТНОСТЬ К ОЧЕРЕДНОМУ КРОВАВОМУ ИНЦИДЕНТУ."
+define news_text_3 = "ЗАВТРА НА ВСЕМ КОНТИНЕНТЕ АЛЬФЫ ОБЬЯВЛЕН ТРАУР. СЕМЬЯМ ПОГИБШИМ ГРАЖДАНАМ АЛЬФЫ БУДЕТ ВЫПЛАЧЕНА КОМПЕНСАЦИЯ."
+
+
+screen news_display():
+    style_prefix "news_display"
+    frame:
+        area (400, 60, 1120, 500)
+        viewport:
+#            scrollbars "None"
+#            mousewheel True
+            draggable False
+            vbox:
+                if news_line == 1:
+                    text "[news_text_1]"
+                elif news_line == 2:
+                    text "[news_text_2]"
+                else:
+                    text "[news_text_3]"
+
+default news_line = 0
 
 ########################################################
 ##### M A I N   M E N U ###################################
@@ -35,6 +57,18 @@ label start:
     scene black
     play sound zeroradio
 # подать особым шрифтом
+
+    $ news_line += 1
+    show screen news_display
+    pause 3
+    $ news_line += 1
+    show screen news_display
+    pause 3
+    $ news_line += 1
+    show screen news_display
+    pause 3
+
+
     "НА СПУТНИКЕ ПЛАНЕТЫ АЛЬФА ПРОИЗОШЕЛ ВЗРЫВ, В РЕЗУЛЬТАТЕ ВОЗГОРАНИЯ ПОГИБЛИ НЕСКОЛЬКО СОТЕН ЧЕЛОВЕК, ТОЧНОЕ ИХ КОЛИЧЕСТВО ПОКА НЕИЗВЕСТНО."
     "ВЕДЕТСЯ СЛЕДСТВИЕ, ПРАВИТЕЛЬСТВО БЕТТА-ПЛАНЕТЫ ОТРИЦАЕТ СВОЮ ОЧЕВИДНУЮ ПРИЧАСТНОСТЬ К ОЧЕРЕДНОМУ КРОВАВОМУ ИНЦИДЕНТУ."
     "ЗАВТРА НА ВСЕМ КОНТИНЕНТЕ АЛЬФЫ ОБЬЯВЛЕН ТРАУР. СЕМЬЯМ ПОГИБШИМ ГРАЖДАНАМ АЛЬФЫ БУДЕТ ВЫПЛАЧЕНА КОМПЕНСАЦИЯ."

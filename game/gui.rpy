@@ -412,6 +412,8 @@ define gui.nvl_button_xalign = 0.0
 
 define gui.language = "unicode"
 
+define gui.news_display.background = "None"
+
 
 ################################################################################
 ## Мобильные устройства
