@@ -1,0 +1,7 @@
+error.txt
+log.txt
+traceback.txt
+
+*.bak
+*.save
+game/saves/*

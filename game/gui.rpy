@@ -23,7 +23,7 @@ init python:
 ## Цвета текста в интерфейсе.
 
 ## Акцентный цвет используется в заголовках и подчёркнутых текстах.
-define gui.accent_color = '#990000'
+define gui.accent_color = '#999999'
 
 ## Цвет, используемый в текстовой кнопке, когда она не выбрана и не наведена.
 define gui.idle_color = '#aaaaaa'
@@ -80,7 +80,8 @@ define gui.label_text_size = 36
 define gui.notify_text_size = 24
 
 ## Размер заголовка игры.
-define gui.title_text_size = 75
+define gui.title_text_size = 144
+define gui.title_text_font = "gui/FFF_Tusj.ttf"
 
 
 ## Главное и игровое меню. #####################################################
