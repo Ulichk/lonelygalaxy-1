@@ -1,8 +1,8 @@
-error.txt
+errors.txt
 log.txt
 traceback.txt
 
 *.bak
-*.save
-game/saves/*
-game/cache/*
+*.rpyc
+game/saves/
+game/cache/
