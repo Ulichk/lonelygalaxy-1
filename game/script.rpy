@@ -56,8 +56,8 @@ label start:
     play music hitman
     scene black
     "A и Б сидели на трубе."
-    scene bang with vpunch
     play sound blash
+    scene bang with Shake((0, 0, 0, 0), 3.0, dist=30)
     " А - упала. Б - пропала. Кто остался на трубе?"
     show alexey_shoot
     scene black
