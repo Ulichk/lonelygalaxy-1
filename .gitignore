@@ -5,3 +5,4 @@ traceback.txt
 *.bak
 *.save
 game/saves/*
+game/cache/*
