@@ -8,12 +8,12 @@ define k = Character("Кельга", color="#000099")
 define r = Character("Рута", color="#000099")
 define l = Character("Алексей", color="#000099")
 define z = Character("Капитан Зац", color="#000099")
-$ b = Character("Мари", show_two_window = True, image="coral_happy", screen = "say new" )
+$ b = Character("Мари", show_two_window = True, image="coral happy", screen = "say new" )
 define c = Character("Тренер", color="#000099")
 define d = Character("АВТОБОТ", kind=nvl, color="#000099")
 show side_image
 image side a ="boy sad"
-image side b ="coral_happy"
+image side b ="coral happy"
 
 image snow = Snow("kitty.png")
 
@@ -51,8 +51,10 @@ label show_news:
 ########################################################
 
 label start:
-
     $ renpy.music.set_volume(0.4)
+
+    jump debug_start
+
     play music hitman
     scene black
     "A и Б сидели на трубе."
@@ -76,14 +78,15 @@ label start:
     call show_news
 
     stop sound
+label debug_start:
     scene city with dissolve
     play sound groza
-    show Ruta_back
+    show Ruta back
     r "Опять что-то у нас взорвали..."
     k "Не беспокойся об этом, свет мой"
     r "Кстати о свете. Ни одного ясного дня в этом месяце."
 #Рута улыбаясь поворачивается
-    show Ruta_happy at left
+    show Ruta happy at left
     k "Погода тебе не нравится... Слетай на Альфу, там сейчас сезон. "
     r "Да нет, всё хорошо, я лучше останусь тут, с вами. Такая погода мне чем-то даже нравится. Ритм дождя. Он такой рваный."
     stop sound
@@ -92,41 +95,41 @@ label start:
     k "Кстати, я принесла тебе кое-что..."
     play sound knock
 
-    hide kelga_happy
+    hide Kelga happy
 
-    show Kelga_unhappy behind Ruta
-    show alexey_happy at right
+    show Kelga unhappy behind Ruta
+    show alexey happy at right
     l "Добрый вечер. Я с докладом."
     r "Привет, Алексей!"
     k "..."
     l "...."
     k "Ты какие-то слова забыл, Леша?"
 
-    show Kelga_unhappy
+    show Kelga unhappy
 
     l "Кхм-кхм..."
     r "Ой, я наверное вам мешаю, я пойду!"
     k "Не надо, Леша скажет нам только приятные и вежливые вещи. Да?"
     l "Разумеется. Наши бойцы взорвали шахту на юго-востоке Спутника. Но по новостям передают что это - провокаторы из Бетты."
     k "Хорошо."
-    show Ruta_scared at left
-    hide Kelga_unhappy
+    show Ruta scared at left
+    hide Kelga unhappy
     r "Никто не пострадал?"
     l "Конечно нет! Человек 200 не больше, но они умерли мгновенно и уверяю вас, совсем не страдали."
     r "Ну и шутки у вас!"
-    show ruta_unhappy at left
+    show Ruta unhappy at left
     r "Прошу прощения. Мне пора. Репетиция через полтора часа. Простите. До свидания!"
     play sound door2
-    hide Ruta_happy at left
+    hide Ruta happy at left
     l "Хорошо отыграть, Рута!"
     l "На самом деле 600 человек, восемнадцать военных. Это -конечно ошибка, скоро пришлют новых. "
-    show Kelga_unhappy
+    show Kelga unhappy
     k "Хорошо. Какие новости по firewall?"
-    hide Kelga_unhappy
+    hide Kelga unhappy
     l "Мы установили имя ученого, которая занимается его поддержанием."
-    show Kelga_unhappy
+    show Kelga unhappy
     k "Ну и чем она отличается от полуторатысяч других программистов и ученых, обслуживающих firewall?"
-    show Kelga_unhappy
+    show Kelga unhappy
     l "Тем, что она стояла у истоков его разработки."
     l "А еще, тем, что ей нужны деньги."
     k "То есть, человек который создал firewall защищающий их планету нуждается  в деньгах?"
@@ -196,12 +199,12 @@ label start:
     "Мама" "Ну, это фары...Но пока можешь называть их глазками."
     play sound door2
     scene black with dissolve
-    show zats_back
+    show zats back
     "КАПИТАН ЗАЦ" "Приветствую, капитан!"
     "МАМА" "Привет, Зац."
     "КАПИТАН ЗАЦ" "А кто это у нас тут?!"
-    hide zats_back
-    show zats_happy
+    hide zats back
+    show zats happy
     z "{i}Мама, а мама!{/i} То есть? Капитан,  правильно я понимаю, что сегодня нас приземлил шестилетка?"
     a "Да, я приземлил космолёт!"
     "Мама" "Под моим руководством."
@@ -217,10 +220,10 @@ label start:
     a "Ты и капитан Зац?!"
     "Мама" "Нет. Не именно мы...Не совсем так. Не важно. Не волнуйся, когда ты станешь пилотом, кто-нибудь уже придумает как их вернуть."
     "Мама" "И не только их..."
-    show Zats_teasing
+    show zats teasing
     z "Лично я жирафов не трогал! Ни одного..."
-    hide Zats_teasing
-    show zats_happy
+    hide zats teasing
+    show zats happy
     z "Хотя в баре на Первой, встречал я одного...жирафа. Ух, уж я б его..."
     z "Артур, ты вот молодец, но под конец резковато взял. Дядя Зац, облил любимую пижамку. "
     "Мама" "Ну, ничего в школе пилотов научат!"
@@ -242,10 +245,10 @@ label start:
     a "Хорошо! Пока, Капитан Зац! Я пошёл одеваться, сам, я взрослый!"
     play sound door2
     scene black
-    show Zats_sad
+    show zats sad
     z "Вика, послушай. А может нам согласиться ну с этими..."
 
-    show zats_sad
+    show zats sad
 
     z "Ну, с Noir. С Кельгой, как думаешь?"
     "Мама" "Зац, вся эти люди преступники. Террористы. Нам незачем с ними связываться."
@@ -254,16 +257,16 @@ label start:
     "Мама" "Меньше всего нам нужно внимание."
     z "Ты не права, Вика. Во-первых, может вам меньше всего и нужно внимание, но своими исследовательскими полетами на школу пилотов ты не накопишь."
     z "Во-вторых...Ну это я...короче. Я считаю, что Кельга и вся эта компашка Noir типы конечно неприятные, но за правду."
-    show zats_happy
+    show zats happy
     z "Ну, подумай. Они дадут денег, ты будешь преподавать в своем пыльном институте."
     "Мама" "Он не пыльный. Это фундаментальные исследование, без которых мы бы не слезли с дерева!"
     z "А так фундаментально укокошили землю, а сейчас гробим Sputnik!"
-    show zats_sad
+    show zats sad
     z "Ну, послушай. По сути и Хельга и группировка Noir правы."
-    show zats_teasing
+    show zats teasing
     z "И мы и вся планета Бетта просто выкачиваем ресурсы из Спутника и взамен оставляем им пустыню. То же, что наши предки сделали с землей."
     z "Ребята за экологию...там...и за справедливость!"
-    show zats_sad
+    show zats sad
     z "Ну, методы у них специфические конечно."
     "Мама" "Я боюсь представить зачем этим головорезам технологии firewall."
     z "Ну, для того, чтобы защитить свои хранилища, там на самом деле мелочь!"
@@ -271,30 +274,30 @@ label start:
     z "Ну...я не знаю."
     "Мама" "Зац, я не очень хотела бы сейчас разбираться в наших отношениях. Но что-то произошло."
     "Мама" "Ты стал отдаляться. Пожалуйста, скажи мне куда ты вляпался пока не поздно."
-    show zats_teasing
+    show zats teasing
     z "Да ну, брось! Ты что!"
     z "Никуда я не вляпался."
     z "Иди ко мне!"
     play sound breathing
     "Мама" "К тому же, Зац. Подожди. К этим Noir не хочет лететь корабль.  "
-    show Zats_happy
+    show zats happy
     "КАПИТАН ЗАЦ" "Корабль....как живой что ли? Эй, мне-то не шесть."
     "Мама" "Иногда мне кажется, что тебе меньше."
-    hide Zats_happy
+    hide zats happy
     scene black
     stop sound fadeout 3.0
 
     scene bg station
     play music six_string fadein 1.0
-    "СЕМЬ ЛЕТ СПУСТЯ. ШКОЛА ПИЛОТОВ."
+    ". ШКОЛА ПИЛОТОВ."
 
-    show coral_happy
+    show coral happy
     b "Артур, Артур! Тебя ищет Тренер!"
     b "И не для того, чтобы похвалить!"
 
     b "Тебе достанется!"
-    hide coral_happy
-    show coral_scared at left
+    hide coral happy
+    show coral scared at left
     show boy cry at right
     a "Куда прятаться?!"
     b "Ну не за меня же! "
@@ -308,7 +311,7 @@ label start:
     scene black with vpunch
     a "Как больно!"
     hide boy cry
-    hide coral_happy
+    hide coral happy
     a "Меня зовут Артур, и уже почти три года я заперт в тюрьме"
     a "Это тюрьма называется Школа Пилотов. Элитное учебное заведение. А по мне - тюрьма."
     a "Я просто убиваю здесь свое время."
@@ -334,12 +337,12 @@ label start:
     show leo angry
     c "Где этот мелкий ублюдок!"
     c "Как же он мне надоел!"
-    show coral_happy at right
+    show coral happy at right
     a "Он пошел в столовую."
     c "Дармоед."
 
     hide leo angry
-    show coral_happy
+    show coral happy
     b "Эй, ты там дышишь?"
     b "Тренер ушел!"
     b "Вылезай, пока тебя не постирали!"
@@ -383,7 +386,7 @@ label start:
     scene bg round
 #резкий переход требует дополнительной обьясняющей сцены
 
-    show coral_happy
+    show coral happy
     b "Кто здесь?"
     a "Это я!"
 
@@ -413,7 +416,7 @@ label start:
 #звук корабля двери
     show boy nervous
     a "Вот это да!"
-    show coral_happy at right with fade
+    show coral happy at right with fade
     b "Как красиво! Скорее бы разрешили полетать на таких!"
     "Артур подхоит к пульту управления."
     b "Артур, только ничего не трогай!"
@@ -484,12 +487,12 @@ label start:
     c "Мне лень отсиживать зад в классе."
     c "Поэтому, группа 2F, мои любимые, отстающие тормоза, сегодня познавать науку мы будем на ходу."
     c "Урок истории. "
-    show coral_angry at left
+    show coral angry at left
     b "Извините пожалуйста, а почему вы ведете историю. У нас же роботизированная теория?"
     c "Потому что руководство считает, что преподавать историю должен ветеран, а не машина."
     c "Когда о войне вам рассказывает машина может показаться, что всё неоднозначно или сложно там... "
     c "А я всё очень просто. Видишь змею. Избавляйся от нее. "
-    show coral_happy at left
+    show coral happy at left
     show boy nervous at right
     a "Но ведь нападений не было уже два года. Кажется мы сами их атакуем. Уже третий взвод шлем. Только ни один еще не вернулся."
     c "Детишки, вы тут самые умные да? У нас б?**ь война. На выживание война, а вы тут сытые, в тепле и живые и рассуждаете"
@@ -580,24 +583,24 @@ label start:
     "Так, вроде бы прямо. Навигатор не зарядил...Ну почему они всегда меняют аудитории и классы! Что за нужда? Маскировка? "
     "Вот зачем будущей элите! Пилоту! Искать! Кабинет!"
     "Cпокойствие, только спокойствие...я будущий офицер...я хладнокровен и уверен..."
-    show coral_angry at right
+    show coral angry at right
     b "Ты опоздал, Артур! Сильно опоздал! Тренер тебя не допустит!"
     b "Так что, можешь уже не торопиться!"
     show boy angry
     a "Ой! Напугала!"
-    show coral_happy at right
+    show coral happy at right
     b "А я нарочно!"
     b "Ты опять разговариваешь сам с собой!"
     a "Не правда! я повторяю материал по космической статикопарадигме!"
     a "И я почти не опоздал! "
-    show coral_angry at right
+    show coral angry at right
     b "Артур, общежитие в одной минуте от учебного корпуса..."
     b "Просто скажи, как ты умудряешься постоянно опаздывать?"
     a "Не постоянно!"
     b "Ну, конечно не постоянно, а всего в 95 процентах случаях."
     a " Подумаешь, припозднился всего на две минуты!"
     a "Эка важность!"
-    show coral_happy at right
+    show coral happy at right
     b "Аудитория H15 в другой стороне, гений!{w} А ты идешь в тупик! "
 
     a " Правда? {w}А я именно туда и шёл! "
@@ -637,7 +640,7 @@ label start:
     play sound door2
     a "Ах ты!"
     a "Ну вот, учителя роботы - это просто напасть! Грубияны! А где сочуствие? Ну, подумаешь не зарегистрировался на экзамен. "
-    show coral_angry at left
+    show coral angry at left
 
     b "И правда, какая мелочь! "
     a "Ты что следишь за мной?"
@@ -695,7 +698,7 @@ label choice1_no:
     "{i}Голос за дверью:{/i}"
     b "Открой немедленно или я выбью дверь."
     scene bg station with dissolve
-    show coral_angry at right
+    show coral angry at right
     show boy red at left
     a "Привет...хаха!"
     a "Как дела ?"
@@ -706,8 +709,8 @@ label choice1_no:
     a "Ну, нет конечно!..."
     a "Нет, на задании я скажу врагам, что я буду стрелять."
     a "А вот Тренеру такое сказать немного страшновато."
-    hide coral_angry
-    show coral_happy with dissolve
+    hide coral angry
+    show coral happy with dissolve
     b "Ахаха - это невероятно мило!"
     b "На тебя невозможно долго злиться. "
     show boy red at left
@@ -717,7 +720,7 @@ label choice1_no:
     show boy shocked at left
     a "Может стоило постучать..."
     a "Ну, я всё-таки что-нибудь придумаю..."
-    show coral_angry with dissolve
+    show coral angry with dissolve
     b "Бегом на экзамен!"
     b " Стучись ногами в дверь, дурак!"
     b "Тебя же вышвырнут из Школы пилотов!"
@@ -728,7 +731,7 @@ label choice1_no:
     a "Ха-ха! Я же пилот! Поэтому лечу на экзамен!"
     hide boy red
     b "Невыносимый идиот!"
-    hide coral_angry
+    hide coral angry
     "Через пару минут Артур снова был у двери. "
 
 label choice1_yes:
@@ -770,18 +773,18 @@ label choice1_yes:
     hide leo happy
 
     a "Спасибо тренер!"
-    show coral_happy at center with dissolve
+    show coral happy at center with dissolve
     b "Ура, он тебя допустил!"
     b "Повезло тебе!"
     show boy nervous at left
     a "Да уж, неожиданно щедро!"
     a "А ты сдала?"
     b "Естественно! Сегодня нужно только сдать маневрирование, это легко! Вот завтра, в боёвке, будет непросто. {w}Готовься! "
-    show coral_happy at right
+    show coral happy at right
     b "И еще {w}cообщаю тебе, просто чтобы ты опять не опозорил нашу группу.."
     a "Что? Да я..."
-    hide coral_happy
-    show coral_angry at right
+    hide coral happy
+    show coral angry at right
     b "Просто слушай. А то опять что-нибудь перепутаешь!"
     b "За рекой - резкий поворот. Сбрось скорость, потом вниз и налево"
     b "Затем нужно подождать 1.5 секунды и только потом сфотографируй поверхность."
@@ -790,7 +793,7 @@ label choice1_yes:
     a "Да, справлюсь я! Я прекрасно маневрирую!"
     a " Я - прирожденный пилот! Может быть я и завалил теорию разок-другой..."
     b "Восемь. {w}Восемь раз ты завалил теорию."
-    show coral_happy at right
+    show coral happy at right
     a "А точно восемь?"
     b " Точно. У тебя самый низкий балл, сдай пожалуйста этот экзамен и вали уже с этой планеты. "
     b "Ты нам рейтинг всей группы снижаешь!"
@@ -813,8 +816,8 @@ label choice1_yes:
     b "Поэтому его и ввели в учебную программу и в симуляцию. Не помню что там было..."
     b "А, точно, это - планета-пустыня, раньше мы думали, что она безопасна,{w} a потом..."
     show boy shocked
-    hide coral_happy at right
-    show coral_angry at right
+    hide coral happy at right
+    show coral angry at right
     a "Я знаю. Это - планета на которой нашли корабль мамы..."
     a "Вернее, то, что от него осталось. "
     b "Артур....прости.. "
@@ -826,7 +829,7 @@ label choice1_yes:
     c "Так исчезни."
     c "Бегом! "
     b "Есть!"
-    hide coral_angry
+    hide coral angry
     c "А ты чего с блестящими глазами?"
     c "Во-первых, пилоту не должны мешать никакие эмоции."
     c "Во-вторых, вы уже должны были проходить пустынную планету на стратегии боя, а не сидеть и фотографировать равнины."
