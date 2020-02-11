@@ -53,8 +53,6 @@ label show_news:
 label start:
     $ renpy.music.set_volume(0.4)
 
-    jump debug_start
-
     play music hitman
     scene black
     "A и Б сидели на трубе."
@@ -78,15 +76,15 @@ label start:
     call show_news
 
     stop sound
-label debug_start:
     scene city with dissolve
     play sound groza
-    show Ruta back
+    show ruta back at left
+    show kelga happy
     r "Опять что-то у нас взорвали..."
     k "Не беспокойся об этом, свет мой"
     r "Кстати о свете. Ни одного ясного дня в этом месяце."
 #Рута улыбаясь поворачивается
-    show Ruta happy at left
+    show ruta happy at left
     k "Погода тебе не нравится... Слетай на Альфу, там сейчас сезон. "
     r "Да нет, всё хорошо, я лучше останусь тут, с вами. Такая погода мне чем-то даже нравится. Ритм дождя. Он такой рваный."
     stop sound
@@ -95,9 +93,7 @@ label debug_start:
     k "Кстати, я принесла тебе кое-что..."
     play sound knock
 
-    hide Kelga happy
-
-    show Kelga unhappy behind Ruta
+    show kelga unhappy behind Ruta
     show alexey happy at right
     l "Добрый вечер. Я с докладом."
     r "Привет, Алексей!"
@@ -105,31 +101,31 @@ label debug_start:
     l "...."
     k "Ты какие-то слова забыл, Леша?"
 
-    show Kelga unhappy
+    show kelga unhappy
 
     l "Кхм-кхм..."
     r "Ой, я наверное вам мешаю, я пойду!"
     k "Не надо, Леша скажет нам только приятные и вежливые вещи. Да?"
     l "Разумеется. Наши бойцы взорвали шахту на юго-востоке Спутника. Но по новостям передают что это - провокаторы из Бетты."
     k "Хорошо."
-    show Ruta scared at left
-    hide Kelga unhappy
+    show ruta scared at left
+    hide kelga unhappy
     r "Никто не пострадал?"
     l "Конечно нет! Человек 200 не больше, но они умерли мгновенно и уверяю вас, совсем не страдали."
     r "Ну и шутки у вас!"
-    show Ruta unhappy at left
+    show ruta unhappy at left
     r "Прошу прощения. Мне пора. Репетиция через полтора часа. Простите. До свидания!"
     play sound door2
     hide Ruta happy at left
     l "Хорошо отыграть, Рута!"
     l "На самом деле 600 человек, восемнадцать военных. Это -конечно ошибка, скоро пришлют новых. "
-    show Kelga unhappy
+    show kelga unhappy
     k "Хорошо. Какие новости по firewall?"
-    hide Kelga unhappy
+    hide kelga unhappy
     l "Мы установили имя ученого, которая занимается его поддержанием."
-    show Kelga unhappy
+    show kelga unhappy
     k "Ну и чем она отличается от полуторатысяч других программистов и ученых, обслуживающих firewall?"
-    show Kelga unhappy
+    show kelga unhappy
     l "Тем, что она стояла у истоков его разработки."
     l "А еще, тем, что ей нужны деньги."
     k "То есть, человек который создал firewall защищающий их планету нуждается  в деньгах?"
@@ -203,7 +199,6 @@ label debug_start:
     "КАПИТАН ЗАЦ" "Приветствую, капитан!"
     "МАМА" "Привет, Зац."
     "КАПИТАН ЗАЦ" "А кто это у нас тут?!"
-    hide zats back
     show zats happy
     z "{i}Мама, а мама!{/i} То есть? Капитан,  правильно я понимаю, что сегодня нас приземлил шестилетка?"
     a "Да, я приземлил космолёт!"
@@ -222,7 +217,6 @@ label debug_start:
     "Мама" "И не только их..."
     show zats teasing
     z "Лично я жирафов не трогал! Ни одного..."
-    hide zats teasing
     show zats happy
     z "Хотя в баре на Первой, встречал я одного...жирафа. Ух, уж я б его..."
     z "Артур, ты вот молодец, но под конец резковато взял. Дядя Зац, облил любимую пижамку. "
@@ -289,7 +283,7 @@ label debug_start:
 
     scene bg station
     play music six_string fadein 1.0
-    ". ШКОЛА ПИЛОТОВ."
+    "СЕМЬ ЛЕТ СПУСТЯ. ШКОЛА ПИЛОТОВ."
 
     show coral happy
     b "Артур, Артур! Тебя ищет Тренер!"
